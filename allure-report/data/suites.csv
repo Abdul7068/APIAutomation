@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 29 18:22:18 IST 2023","Sun Oct 29 18:22:22 IST 2023","3371","All Test Suite","C:/Users/eardbas/IdeaProjects/APIAutomationRA","org.example.misc.testfile","org.example.misc.testfile","postReq","postReq",""
