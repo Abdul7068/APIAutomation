@@ -26,6 +26,12 @@
     </dependency>
 
     <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>2.2</version>
+    </dependency>
+
+    <dependency>
       <groupId>com.codoid.products</groupId>
       <artifactId>fillo</artifactId>
       <version>1.22</version>
@@ -55,7 +61,7 @@
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>7.8.0</version>
-      <scope>test</scope>
+      <scope>compile</scope>
     </dependency>
 
     <dependency>
@@ -69,6 +75,12 @@
       <groupId>io.rest-assured</groupId>
       <artifactId>json-schema-validator</artifactId>
       <version>5.3.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-ooxml-schemas</artifactId>
+      <version>4.1.2</version>
     </dependency>
 
     <dependency>
@@ -88,6 +100,12 @@
       <artifactId>assertj-core</artifactId>
       <version>3.22.0</version>
       <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>com.github.javafaker</groupId>
+      <artifactId>javafaker</artifactId>
+      <version>1.0.2</version>
     </dependency>
 
     <dependency>

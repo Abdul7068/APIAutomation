@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/eardbas/IdeaProjects/APIAutomationRA">
+        <classes>
+            <class name="org.example.crud.TC_CreateBooking">
+                <methods>
+                    <include name="testCreateBooking"/>
+                </methods>
+            </class>
+        </classes>
+        <groups>
+            <run>
+                <include name="stage"></include>
+            </run>
+        </groups>
+    </test>
+</suite>
